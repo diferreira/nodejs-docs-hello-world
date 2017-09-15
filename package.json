@@ -10,5 +10,10 @@
     },
     "scripts": {
         "start": "node index.js"
+    },
+    "devDependencies": {
+      "mocha": "*",
+      "chai" : "*",
+      "request" : "*"
     }
 }
